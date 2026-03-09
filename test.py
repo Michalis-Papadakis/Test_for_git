@@ -1,1 +1,1 @@
-print("george and change the terminal")
+print("george and change the terminal and make a change")
