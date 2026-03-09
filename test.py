@@ -1,1 +1,1 @@
-print("george and change the terminal and make a change_this is a change with terminal")
+print("george and change the terminal and make a change_this is a change with terminal_new_change_to_test_commit")
